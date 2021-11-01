@@ -94,8 +94,6 @@ Be sure to We recommend looking at the spec file to get a better understanding o
 
 ### The Code Review
 
-When you come into the office in-person (or remotely by video chat), we'll do a code review with you. We'll ask you questions about why you chose a particular solution to each test. We may also ask you to modify the code to solve another problem. 
+We will call you remotely by video chat, we'll do a code review with you. We'll ask you questions about why you chose a particular solution to each test. We may also ask you to modify the code to solve another problem. 
 
 ## Let's Get Started!
-
-Fork this repo and check out the `README.md` file in the first test folder!
